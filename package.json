@@ -1,0 +1,12 @@
+{
+  "name": "bestfy-webhook",
+  "version": "1.0.0",
+  "description": "Servidor webhook Z-API para Bestfy CRM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
